@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = gpFlightReservation
+build_property.ProjectDir = /Users/james/GBC/Year 2/sem 1/code wrokspace/COMP 2129 - ADV OBJECT- ORIENT.PROGRAMMING/gpFlightReservation/gpFlightReservation/

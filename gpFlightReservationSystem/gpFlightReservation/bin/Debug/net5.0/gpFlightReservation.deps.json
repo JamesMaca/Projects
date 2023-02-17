@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "gpFlightReservation/1.0.0": {
+        "runtime": {
+          "gpFlightReservation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gpFlightReservation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

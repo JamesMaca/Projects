@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{48DCADB3-04FF-44EF-A4BD-D2F78B3C9F58}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="gpFlightReservation/CustomerManager.cs">
+    <Files>
+      <File FileName="gpFlightReservation/Customer.cs" Line="38" Column="10" />
+      <File FileName="gpFlightReservation/CustomerManager.cs" Line="23" Column="18" />
+      <File FileName="gpFlightReservation/Booking.cs" Line="45" Column="24" NotebookId="1" />
+      <File FileName="gpFlightReservation/BookingManager.cs" Line="27" Column="14" NotebookId="1" />
+      <File FileName="gpFlightReservation/Flight.cs" Line="71" Column="18" NotebookId="1" />
+      <File FileName="gpFlightReservation/FlightManager.cs" Line="77" Column="55" NotebookId="1" />
+      <File FileName="gpFlightReservation/AirlineCoordinator.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gpFlightReservation" expanded="True">
+            <Node name="gpFlightReservation" expanded="True">
+              <Node name="CustomerManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.gpFlightReservation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
