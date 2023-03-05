@@ -1,4 +1,4 @@
-//James MacAloney - 101362896
+//James MacAloney
 
 package com.example.groupprojectme;
 
