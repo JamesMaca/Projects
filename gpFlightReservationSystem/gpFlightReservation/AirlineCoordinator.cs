@@ -1,7 +1,7 @@
-﻿//James MacAloney - 101362896
-//Yasaman Mirvahabi Sabet , 101217770
-//Stefan Kepinski - 101356431
-//Ronan Behan  101366894
+﻿//James MacAloney
+//Yasaman Mirvahabi Sabet
+//Stefan Kepinski
+//Ronan Behan
 
 using System;
 
